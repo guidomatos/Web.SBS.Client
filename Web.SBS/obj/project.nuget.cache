@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YRyWGJ8SK3AHQ2Mn8deXFtC++Dd5jSH/Nd9PGYObUW9pv5W3J0scb5ImCs/gc+VBGupgAQ1Y7Yv+9HHWNlFaQ==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos\\sbs\\frontend\\Web.SBS.Client\\Web.SBS\\Web.SBS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TISMART\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
